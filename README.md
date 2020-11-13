@@ -1,0 +1,2 @@
+# fcc_tribute_page
+TRIBUTE PAGE FOR THOMAS SANKARA
