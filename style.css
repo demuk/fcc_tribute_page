@@ -1,5 +1,35 @@
 h1, h3{
-    color: red;
+    color: #b85042;
     text-align: center;
     font-family: monospace;
+}
+
+h1 {
+    padding-top: 20px;
+}
+
+body{
+    background-color: #b85042;
+    text-align: center;
+
+}
+
+img {
+    width: 600px;
+    height: auto;
+}
+
+
+#list-dates{
+    text-align: justify;
+    color: #322514;
+    margin-left: 100px;
+}
+
+#main{
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 75px;
+    margin-bottom: 75px;
+    background-color: #a7beae;
 }
